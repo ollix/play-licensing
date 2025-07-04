@@ -5,10 +5,10 @@ plugins {
 
 android {
     namespace = "com.google.android.vending.licensing"
-    compileSdk = 34
+    compileSdk = 35
     defaultConfig {
         minSdk = 4
-        targetSdk = 34
+        targetSdk = 35
     }
     buildTypes {
         release {
